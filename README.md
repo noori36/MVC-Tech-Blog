@@ -29,19 +29,19 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
   ``` 
 
 
-  ## Links
+ ## Links
 
 - [The URL of the GitHub repository.](https://github.com/noori36/MVC-Tech-Blog)
 - [The URL of the functional and deployed application](URL)
  
 
-  ## Contributing:
+## Contributing:
   No contribution required on this project.
   
-  ## Testing
+## Testing
     No test available.
   
-  ## Authors
+## Authors
 
   Noreen A
   
